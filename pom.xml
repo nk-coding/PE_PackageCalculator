@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>pe.packagecalculator</groupId>
-    <artifactId>PE_1</artifactId>
+    <artifactId>packagecalculator</artifactId>
     <version>1.0</version>
 
     <properties>
